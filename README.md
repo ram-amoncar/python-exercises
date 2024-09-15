@@ -113,6 +113,8 @@ and explore the various options to build you application
 
 Write a python program which reminds you of drinking water every hour or two. Your program can either beep or send desktop notifications for a specific operating system
 
+[[My Solution](exercise11.py)]
+
 ### Acknowledgements
 
 - [Images taken from unsplash](https://unsplash.com/)
