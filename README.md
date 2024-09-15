@@ -2,32 +2,32 @@
 
 Learning & exercise from [CodeWithHarry](https://www.youtube.com/@CodeWithHarry)
 
-### Important Links
+## Important Links
 
 [YT Playlist](https://youtube.com/playlist?list=PLu0W_9lII9agwh1XjRt242xIpHhPT2llg&si=sU8L2w7FAjeHk4jR)
 [Github Repo](https://github.com/CodeWithHarry/100-days-of-code-youtube)
 
-### Exercises
+## Exercises
 
-#### Exercise 1 - Create a Calculator
+### Exercise 1 - Create a Calculator
 
 Create a calculator capable of performing addition, subtraction, multiplication and division operations on two numbers. Your program should format the output in a readable manner!
 
 [[My Solution](exercise1.py)]
 
-#### Exercise 2: Good Morning Sir
+### Exercise 2: Good Morning Sir
 
 Create a python program capable of greeting you with Good Morning, Good Afternoon and Good Evening. Your program should use time module to get the current hour.
 
 [[My Solution](exercise2.py)]
 
-#### Exercise 3: KBC
+### Exercise 3: KBC
 
 Create a program capable of displaying questions to the user like KBC (Kaun Banega Crorepati - Indian Adaptation of "Who Wants to Be a Millionaire?"). Use List data type to store the questions and their correct answers. Display the final amount the person is taking home after playing the game.
 
 [[My Solution](exercise3.py)]
 
-#### Exercise 4: Codec
+### Exercise 4: Codec
 
 Write a python program to translate a message into secret code language. Use the rules below to translate normal English into secret code language
 
@@ -43,7 +43,7 @@ Your program should ask whether you want to code or decode
 
 [[My Solution](exercise4.py)]
 
-#### Exercise 5: Snake Water Gun
+### Exercise 5: Snake Water Gun
 
 Snake, Water and Gun is a variation of the children's game "rock-paper-scissors" where players use hand gestures to represent a snake, water, or a gun.
 
@@ -59,7 +59,7 @@ Write a Library class with no_of_books and books as two instance variables. Writ
 
 [[My Solution](exercise6.py)]
 
-#### Exercise 7: Clear The Clutter
+### Exercise 7: Clear The Clutter
 
 Write a program to clear the clutter inside a folder on your computer.
 You should use os module to rename all the png images from 1.png all the way till n.png where n is the number of png files in that folder. Do the same for other file formats. For example:
@@ -72,7 +72,7 @@ You should use os module to rename all the png images from 1.png all the way til
 
 [[My Solution](exercise7.py)]
 
-#### Exercise 8: PDFs
+### Exercise 8: PDFs
 
 Write a program to manipulate pdf files using PyPDF. Your programs should be able to merge multiple pdf files into a single pdf. You are welcome to add more functionalities
 
@@ -80,7 +80,7 @@ PyPdf is a free and open-source pure-python PDF library capable of splitting, me
 
 [[My Solution](exercise8.py)]
 
-#### Exercise 9: pronounce
+### Exercise 9: pronounce
 
 Write a program to pronounce list of names using win32 API.
 If you are given a list l as follows:
@@ -101,7 +101,7 @@ Note: If you are not using windows, try to figure out how to do the same thing u
 
 [[My Solution](exercise9.py)]
 
-#### Exercise 10: API
+### Exercise 10: API
 
 Use the NewsAPI and the requests module to fetch the daily news related to different topics.
 Go to: https://newsapi.org/
@@ -109,12 +109,12 @@ and explore the various options to build you application
 
 [[My Solution](exercise10.py)]
 
-## Exercise 11 - Drink Water Reminder
+### Exercise 11 - Drink Water Reminder
 
 Write a python program which reminds you of drinking water every hour or two. Your program can either beep or send desktop notifications for a specific operating system
 
 [[My Solution](exercise11.py)]
 
-### Acknowledgements
+## Acknowledgements
 
 - [Images taken from unsplash](https://unsplash.com/)
